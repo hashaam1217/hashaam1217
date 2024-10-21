@@ -9,8 +9,8 @@ Hey, I'm currently studying electrical engineering at UBC, I hope you enjoy my p
 * 🌍  I'm based in Vancouver
 * 🖥️  See my portfolio at [HashaamZafar.ca](http://hashaamzafar.ca)
 * ✉️  You can contact me at [hashaamzafar2003@gmail.com](mailto:hashaamzafar2003@gmail.com)
-* 🧠  I'm learning NodeJS, TypeScript, Power analysis
-* 🤝  I'm open to collaborating on Any electrical / software project
+* 🧠  I'm learning Digital Verification, Firmware, and RTOS on Arm
+* 🤝  I'm open to collaborating on hardware or software projects
 
 ### Skills
 
